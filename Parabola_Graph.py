@@ -1,5 +1,5 @@
 import tkinter
-import math
+
 
 def parabola(page, size):
     for x in range(size):
